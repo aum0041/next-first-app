@@ -9,7 +9,7 @@ export default async function Page({ params }: PageParams) {
 
   return (
     <div>
-      ID :
+      ID : {stuid}
       <br />
       WOW WOW WOW
       <br />
